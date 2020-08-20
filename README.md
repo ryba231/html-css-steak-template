@@ -1,6 +1,7 @@
 # html-css-steak-house-template
 
-## Preview
+## Screen
+### Screen poglądowy wykorzystany jako wzór.
 
 ![steak template](images/preview/html-w1-steak.png)
 
